@@ -7,3 +7,4 @@ fruta = "morango"
 #lista
 frutas= ["morango","laranja","pêra"]
 print(frutas[2])
+print(len(frutas)) 
